@@ -1,0 +1,9 @@
+three.js and JigLibJS Demo
+
+This is a demo I put together while I was testing out some HTML5 3D JavaScript engines and JavaScript physics engines. The ones I chose to attempt to integrate were three.js and JigLibJS. This particular demo is running three.js r34 and JigLibJS v0.9.0.2.
+
+three.js - https://github.com/mrdoob/three.js/
+JigLibJS - https://github.com/supereggbert/JigLibJS/
+
+At some point, I'm sure these libraries need to be updated within this demo, but everything works for now. Read my writeup here:
+http://timothypoon.com/blog/2011/03/08/using-three-js-and-jiglibjs-together/
